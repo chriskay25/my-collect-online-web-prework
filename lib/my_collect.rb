@@ -1,5 +1,6 @@
 def my_collect(array)
+  collection = []
   count = 0 
-  while count < array.length 
+    while count < array.length 
   
 
